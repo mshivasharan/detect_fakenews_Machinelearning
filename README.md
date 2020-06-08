@@ -1,0 +1,2 @@
+# detect_fakenews_Machinelearning
+using Tfidfvectorizer and different classifiers passiveAggressiveClassifier, knn
